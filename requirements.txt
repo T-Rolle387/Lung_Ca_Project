@@ -4,3 +4,4 @@ matplotlib==3.5.0
 seaborn==0.11.2
 sklearn
 ipywidgets==7.6.5
+voila 1.2.0
